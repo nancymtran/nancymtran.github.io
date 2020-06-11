@@ -136,7 +136,6 @@ text-align: center;
 /* Links inside the navbar */
 .navbar a{
     float:left;
-    position: absolute;
     color: black;
     opacity: 0.5;
     text-align: center;
