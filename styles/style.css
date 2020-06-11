@@ -124,9 +124,6 @@ p {
 text-align: center;
 }
 
-.animate__animated.animate__pulse {
-  --animate-duration: 2s;
-}
 
 /* This is the navigation bar */
 .navbar{
@@ -148,6 +145,10 @@ text-align: center;
     text-decoration: none;
     font-family: 'Montserrat', sans-serif;
     font-size: 20px; 
+    display: inline-block;
+    margin: 0 0.5rem;
+    animation: bounce; /* referring directly to the animation's @keyframe declaration */
+    animation-duration: 2s; 
 }
 
 
