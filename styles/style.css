@@ -117,10 +117,12 @@ body {
 p {
     color: #514c4d;
     padding: 1%;
+    font-family: 'Montserrat', sans-serif;
 }
 
 .intro h1 {
 text-align: center;
+font-family: 'Montserrat', sans-serif;
 }
 
 /* This is the navigation bar */
