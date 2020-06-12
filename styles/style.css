@@ -133,10 +133,6 @@ text-align: center;
     width: 100%; /* full width regardless of screen size*/
   }
   
-.animate__animated.animate__pulse {
-    --animate-duration: 2s;
-}
-
 /* Links inside the navbar */
 .navbar a{
     float:left;
@@ -147,6 +143,8 @@ text-align: center;
     text-decoration: none;
     font-family: 'Montserrat', sans-serif;
     font-size: 20px; 
+    transition: all .2s ease-in-out;
+    transform: scale(1.1);
 }
 
 
