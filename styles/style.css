@@ -152,7 +152,7 @@ text-align: center;
 .navbar a:hover {
     background-color: #d9e4f5;
     background-image: linear-gradient(315deg, #d9e4f5 0%, #f5e3e6 74%);
-    transform: scale(1.3);
+    transform: scale(2);
 }
 
 .socialMedia {
