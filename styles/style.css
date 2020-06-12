@@ -154,7 +154,8 @@ text-align: center;
     background-color: #d9e4f5;
     background-image: linear-gradient(315deg, #d9e4f5 0%, #f5e3e6 74%);
     animation: pulse; /* referring directly to the animation's @keyframe declaration */
-    animation-duration: 3s;
+    animation-duration: 2s;
+}
 
 .socialMedia {
     display: flex;
