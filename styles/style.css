@@ -144,7 +144,6 @@ text-align: center;
     font-family: 'Montserrat', sans-serif;
     font-size: 20px; 
     transition: all .2s ease-in-out;
-    transform: scale(1.1);
 }
 
 
@@ -152,6 +151,7 @@ text-align: center;
 .navbar a:hover {
     background-color: #d9e4f5;
     background-image: linear-gradient(315deg, #d9e4f5 0%, #f5e3e6 74%);
+    transform: scale(1.1);
 }
 
 .socialMedia {
