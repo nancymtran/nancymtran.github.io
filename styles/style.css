@@ -124,11 +124,6 @@ p {
 text-align: center;
 }
 
-.navbar h1:hover {
-  animation: bounce; /* referring directly to the animation's @keyframe declaration */
-  animation-duration: 2s; /* don't forget to set a duration! */
-}
-
 /* This is the navigation bar */
 .navbar{
     overflow: visible;
@@ -138,6 +133,9 @@ text-align: center;
     width: 100%; /* full width regardless of screen size*/
   }
   
+.animate__animated.animate__pulse {
+    --animate-duration: 2s;
+}
 
 /* Links inside the navbar */
 .navbar a{
