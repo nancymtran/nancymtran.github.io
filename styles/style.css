@@ -153,8 +153,6 @@ text-align: center;
 .navbar a:hover {
     background-color: #d9e4f5;
     background-image: linear-gradient(315deg, #d9e4f5 0%, #f5e3e6 74%);
-    animation-duration: 2.5s;
-    animation-iteration-count: infinite;
 }
 
 .socialMedia {
