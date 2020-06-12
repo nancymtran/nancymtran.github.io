@@ -132,8 +132,6 @@ text-align: center;
     top: 0; /* nav bar is at the top of the page */
     display: flex;
     width: 100%; /* full width regardless of screen size*/
-    animation-duration: 2.5s;
-    animation-iteration-count: infinite;
   }
   
 
@@ -155,6 +153,8 @@ text-align: center;
 .navbar a:hover {
     background-color: #d9e4f5;
     background-image: linear-gradient(315deg, #d9e4f5 0%, #f5e3e6 74%);
+    animation-duration: 2.5s;
+    animation-iteration-count: infinite;
 }
 
 .socialMedia {
