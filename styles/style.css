@@ -132,6 +132,8 @@ text-align: center;
     top: 0; /* nav bar is at the top of the page */
     display: flex;
     width: 100%; /* full width regardless of screen size*/
+    animation-duration: 2.5s;
+    animation-iteration-count: infinite;
   }
   
 
@@ -146,9 +148,6 @@ text-align: center;
     font-family: 'Montserrat', sans-serif;
     font-size: 20px; 
     display: inline-block;
-    margin: 0 0.5rem;
-    animation: bounce; /* referring directly to the animation's @keyframe declaration */
-    animation-duration: 2s; 
 }
 
 
