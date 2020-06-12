@@ -143,13 +143,17 @@ text-align: center;
     text-decoration: none;
     font-family: 'Montserrat', sans-serif;
     font-size: 20px;
-    background-image: linear-gradient(315deg, #d9e4f5 0%, #f5e3e6 74%); 
+    background-color: #f5e3e6; 
+    opacity: 0.5;
+    filter: alpha(opacity=50);
 }
 
 
 /* Change background on mouse-over/hover */
 .navbar a:hover {
-    background-color: #d9e4f5;
+  background-color: #f5e3e6; 
+  opacity: 0.5;
+  filter: alpha(opacity=50);
 }
 
 .socialMedia {
