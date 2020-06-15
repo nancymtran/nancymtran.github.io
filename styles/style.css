@@ -14,7 +14,6 @@ html {
 
 body {
   margin: 0;
-  line-height: 1;
   font-family: sans-serif;
 }
 iframe {
@@ -92,7 +91,6 @@ button {
   -webkit-font-smoothing: inherit;
   letter-spacing: inherit;
   background: none;
-  cursor: pointer;
   overflow: visible;
 }
 ::-moz-focus-inner {
