@@ -103,7 +103,12 @@ button {
 */
 * {
   background-color: whitesmoke;
+  cursor: url(/assets/wand.png), auto;
 }
+/*<div>Icons made by <a href="https://www.flaticon.com/free-icon/wand_861556" 
+title="Good Ware">Good Ware</a> from <a href="https://www.flaticon.com/" 
+title="Flaticon">www.flaticon.com</a></div>*/
+
 
 /*for future:   background-image: linear-gradient(315deg, #d9e4f5 0%, #f5e3e6 74%);*/
 
@@ -112,12 +117,8 @@ body {
     font-family: 'Montserrat', sans-serif;
     text-align: left;
     color: #514c4d;
-    cursor: url(/assets/wand.png), auto;
 }
 
-/*<div>Icons made by <a href="https://www.flaticon.com/free-icon/wand_861556" 
-title="Good Ware">Good Ware</a> from <a href="https://www.flaticon.com/" 
-title="Flaticon">www.flaticon.com</a></div>*/
 
 p {
     color: #514c4d;
