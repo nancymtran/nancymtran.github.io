@@ -128,6 +128,7 @@ p {
 .intro h1 {
   display: block;
   text-align: center;
+  margin-top: 15%;
 }
 
 /* This is the navigation bar */
@@ -137,6 +138,7 @@ p {
     top: 0; /* nav bar is at the top of the page */
     display: block;
     width: 100%; /* full width regardless of screen size*/
+  margin-bottom: 15%;
   }
   
 /* Links inside the navbar */
@@ -156,10 +158,13 @@ p {
 
 /* Change background on mouse-over/hover */
 .navbar a:hover {
-  animation: bounceIn 3s;
-  -webkit-animation: bounceIn 3s;
-  -moz-animation: bounceIn 3s;
+  transform: scale(1.1);
+  transition: 0.5s;
 }
+
+/* animation: bounceIn 3s;
+  -webkit-animation: bounceIn 3s;
+  -moz-animation: bounceIn 3s;*/
 
 .socialMedia {
     display: flex;
