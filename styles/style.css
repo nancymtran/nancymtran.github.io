@@ -156,9 +156,9 @@ text-align: center;
 
 /* Change background on mouse-over/hover */
 .navbar a:hover {
-  animation: pulse 3s;
-  -webkit-animation: pulse 3s;
-  -moz-animation: pulse 3s;
+  animation: bounceIn 3s;
+  -webkit-animation: bounceIn 3s;
+  -moz-animation: bounceIn 3s;
 }
 
 .socialMedia {
