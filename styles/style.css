@@ -126,7 +126,7 @@ p {
 }
 
 .intro h1 {
-text-align: center;
+  text-align: center;
 margin-top: 30%;
 }
 
@@ -135,7 +135,7 @@ margin-top: 30%;
     overflow: visible;
     position: fixed;  /* sets navbar to a fixed position so no moving throughout */
     top: 0; /* nav bar is at the top of the page */
-    display: flex;
+    display: block;
     width: 100%; /* full width regardless of screen size*/
     margin-bottom: 30%;
   }
@@ -174,11 +174,11 @@ img {
     width: 30px; 
     display: inline-block;
     margin: 5px;
-    filter: invert(27%) sepia(17%) saturate(140%) hue-rotate(298deg) brightness(94%) contrast(84%);
+  }
+/*  filter: invert(27%) sepia(17%) saturate(140%) hue-rotate(298deg) brightness(94%) contrast(84%);
     -webkit-filter: invert(27%) sepia(17%) saturate(140%) hue-rotate(298deg) brightness(94%) contrast(84%) ;
     -moz-filter: invert(27%) sepia(17%) saturate(140%) hue-rotate(298deg) brightness(94%) contrast(84%) ;
-    -ms-filter: invert(27%) sepia(17%) saturate(140%) hue-rotate(298deg) brightness(94%) contrast(84%);
-  }
+    -ms-filter: invert(27%) sepia(17%) saturate(140%) hue-rotate(298deg) brightness(94%) contrast(84%);*/
 
 /* hovering over the image*/
 img:hover {
