@@ -127,7 +127,7 @@ p {
 
 .intro h1 {
 text-align: center;
-margin-top: 20%;
+margin-top: 30%;
 }
 
 /* This is the navigation bar */
@@ -137,7 +137,7 @@ margin-top: 20%;
     top: 0; /* nav bar is at the top of the page */
     display: flex;
     width: 100%; /* full width regardless of screen size*/
-    margin-bottom: 20%;
+    margin-bottom: 30%;
   }
   
 /* Links inside the navbar */
