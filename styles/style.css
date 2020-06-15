@@ -172,7 +172,7 @@ img {
     border-radius: 50%; /*makes the picture a circle*/
     width: 30px; 
     display: inline-block;
-    margin: 10px;
+    padding: 10px;
     filter: invert(27%) sepia(17%) saturate(140%) hue-rotate(298deg) brightness(94%) contrast(84%);
     -webkit-filter: invert(27%) sepia(17%) saturate(140%) hue-rotate(298deg) brightness(94%) contrast(84%) ;
     -moz-filter: invert(27%) sepia(17%) saturate(140%) hue-rotate(298deg) brightness(94%) contrast(84%) ;
