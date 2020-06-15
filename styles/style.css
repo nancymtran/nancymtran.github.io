@@ -170,7 +170,6 @@ text-align: center;
 /*this is to change the image*/
 img {
   border: 1px black;
-  border-radius: 50%;
   padding: 5px;
     width: 30px; 
     filter: invert(27%) sepia(17%) saturate(140%) hue-rotate(298deg) brightness(94%) contrast(84%);
