@@ -85,11 +85,6 @@ p {
     margin-top: 15%;
 }
 
-.intro p {
-  display: block;
-  text-align: center;
-}
-
 /* Navigation bar */
 .navbar{
     overflow: visible;
@@ -148,6 +143,7 @@ p {
     filter: alpha(opacity=70);
 }
 
+/*download resume button that will direct to pdf to download*/
 .downloadResumeButton {
     padding: 15px 30px;
     font-family: 'Montserrat', sans-serif;
@@ -163,6 +159,7 @@ p {
     margin-left: 10%;
 }
 
+/*download resume button when hover*/
 .downloadResumeButton:hover {
     color: #514c4d;
     transform: scale(1.1);
