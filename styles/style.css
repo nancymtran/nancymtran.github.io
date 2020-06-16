@@ -85,6 +85,11 @@ p {
     margin-top: 15%;
 }
 
+.intro p {
+  display: block;
+  text-align: center;
+}
+
 /* Navigation bar */
 .navbar{
     overflow: visible;
@@ -151,19 +156,15 @@ p {
     color: #514c4d;
     border: #514c4d 3px;
     border-radius: 8px;
-    width: 100px;
+    width: 80%;
     box-shadow: 3px 3px 3px 3px rgb(220, 203, 206);
     margin-top: 2%;
     margin-bottom: 2%;
-    display: flex;
-    justify-content: center;
-    justify-items: center;
-    justify-self: center;
+    margin-left: 10%;
 }
 
 .downloadResumeButton:hover {
-    background-image: #514c4d;   
     color: #514c4d;
-    transform: scale(1.2);
+    transform: scale(1.1);
     transition: 0.3s;
 }
