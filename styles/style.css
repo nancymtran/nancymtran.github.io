@@ -167,7 +167,7 @@ transition: 0.1s;
 
 #googleForms iframe {
   border: 0;
-  width: 900px;
+  width: 80%;
   height: 2000px;
   display: flex;
   justify-content: center;
