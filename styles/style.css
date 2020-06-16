@@ -7,51 +7,44 @@ html {
   -moz-osx-font-smoothing: grayscale;
   -webkit-tap-highlight-color: transparent;
 }
-body {
-  margin: 0;
-  line-height: 1;
-  font-family: sans-serif;
-}
+
 iframe {
   border: 0;
 }
+
 main {
   display: block;
 }
-ul,
-ol {
+
+ul, ol {
   margin-top: 0;
   margin-bottom: 0;
   padding-left: 0;
 }
+
 li {
   display: block;
 }
+
 dl {
   margin-top: 0;
   margin-bottom: 0;
 }
+
 dd {
   margin-left: 0;
 }
-h1,
-h2,
-h3,
-h4,
-h5,
-h6 {
+
+h1, h2, h3, h4, h5, h6 {
   margin-top: 0;
   margin-bottom: 0;
-  font-size: inherit;
 }
+
 blockquote {
   margin: 0;
   padding: 0;
 }
-p {
-  margin-top: 0;
-  margin-bottom: 0;
-}
+
 sup {
   position: relative;
   top: -.5em;
@@ -59,22 +52,16 @@ sup {
   font-size: 75%;
   line-height: 0;
 }
-strong {
-  font-weight: bold;
-}
+
 figure {
   margin: 0;
 }
-img {
-  border: 0;
-  max-width: 100%;
-  height: auto;
-  vertical-align: middle;
-}
+
 a {
   text-decoration: none;
   color: inherit;
 }
+
 button {
   border: 0;
   margin: 0;
@@ -88,6 +75,7 @@ button {
   cursor: pointer;
   overflow: visible;
 }
+
 ::-moz-focus-inner {
   border: 0;
   padding: 0;
@@ -99,15 +87,10 @@ button {
     background-repeat: no-repeat; /*background does not repeat itself*/
     background-attachment: fixed; /*background does not repeat itself*/
     cursor: url(/assets/wand.png), auto;
-    -webkit-cursor: url(/assets/wand.png), auto;
-    -ms-cursor: url(/assets/wand.png), auto;
-    -moz-cursor: url(/assets/wand.png), auto;
 }
 /*<div>Icons made by <a href="https://www.flaticon.com/free-icon/wand_861556" 
 title="Good Ware">Good Ware</a> from <a href="https://www.flaticon.com/" 
 title="Flaticon">www.flaticon.com</a></div>*/
-
-
 
 body {
     backface-visibility: visible;
@@ -115,14 +98,15 @@ body {
     text-align: left;
     color: #514c4d;
     position: fixed;
+    line-height: 1;
 }
 
 
 p {
     color: #514c4d;
-    padding-top: 1%;
-    padding-bottom: 1%;
     font-family: 'Montserrat', sans-serif;
+    padding-left: 1%;
+    padding-right: 1%;
 }
 
 .intro h1 {
