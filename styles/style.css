@@ -173,3 +173,23 @@ p {
     filter: alpha(opacity=70);
 }
 
+.downloadResumeButton {
+  padding: 15px 30px;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bold;
+  text-align: center;
+  color: #514c4d;
+  background-color: whitesmoke;
+  border: #514c4d 3px;
+  border-radius: 8px;
+  width: 100%;
+  box-shadow: 3px 3px 3px 3px rgb(220, 203, 206);
+}
+
+.downloadResumeButton:hover {
+background-color: #514c4d;   
+color: whitesmoke;
+opacity: 0.8;
+filter: alpha(opacity=80);
+transition: 0.1s;
+}
