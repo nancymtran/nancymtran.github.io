@@ -101,11 +101,13 @@ title="Good Ware">Good Ware</a> from <a href="https://www.flaticon.com/"
 title="Flaticon">www.flaticon.com</a></div>*/
 
 
+
 body {
     backface-visibility: visible;
     font-family: 'Montserrat', sans-serif;
     text-align: left;
     color: #514c4d;
+    position: fixed;
 }
 
 
@@ -113,16 +115,14 @@ p {
     color: #514c4d;
     padding: 1%;
     font-family: 'Montserrat', sans-serif;
-    margin-top: 0;
-    margin-bottom: 0;  
 }
 
 .intro h1 {
     display: block;
     text-align: center;
-    margin-top: 15%;
-
+    margin-top: 10%;
 }
+
 /* Navigation bar */
 .navbar{
     overflow: visible;
@@ -130,9 +130,9 @@ p {
     top: 0; /* nav bar is at the top of the page */
     display: block;
     width: 100%; /* full width regardless of screen size*/
-    margin-bottom: 15%;
-  }
-  
+    padding: 0%;
+}
+
 /* Links inside the navigation bar */
 .navbar a{
     float:left;
