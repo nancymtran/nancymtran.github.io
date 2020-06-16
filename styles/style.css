@@ -149,7 +149,7 @@ p {
     font-weight: bold;
     text-align: center;
     color: #514c4d;
-    background-color: whitesmoke;
+    background-image: whitesmoke;
     border: #514c4d 3px;
     border-radius: 8px;
     width: 100%;
@@ -159,7 +159,7 @@ p {
 }
 
 .downloadResumeButton:hover {
-    background-color: #514c4d;   
+    background-image: #514c4d;   
     color: whitesmoke;
     opacity: 0.8;
     filter: alpha(opacity=80);
