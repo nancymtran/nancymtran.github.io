@@ -7,41 +7,51 @@ html {
   -moz-osx-font-smoothing: grayscale;
   -webkit-tap-highlight-color: transparent;
 }
-
+body {
+  margin: 0;
+  line-height: 1;
+  font-family: sans-serif;
+}
 iframe {
   border: 0;
 }
-
+main {
+  display: block;
+}
 ul,
 ol {
   margin-top: 0;
   margin-bottom: 0;
   padding-left: 0;
 }
-
 li {
   display: block;
 }
-
 dl {
   margin-top: 0;
   margin-bottom: 0;
 }
-
 dd {
   margin-left: 0;
 }
-
-h1, h2, h3, h4, h5, h6 {
-  margin-top: 5%;
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  margin-top: 0;
+  margin-bottom: 0;
+  font-size: inherit;
+}
+blockquote {
+  margin: 0;
+  padding: 0;
+}
+p {
+  margin-top: 0;
   margin-bottom: 0;
 }
-
-blockquote {
-    margin: 0;
-    padding: 0;
-  }
-
 sup {
   position: relative;
   top: -.5em;
@@ -49,27 +59,22 @@ sup {
   font-size: 75%;
   line-height: 0;
 }
-
 strong {
   font-weight: bold;
 }
-
 figure {
   margin: 0;
 }
-
 img {
   border: 0;
   max-width: 100%;
   height: auto;
   vertical-align: middle;
 }
-
 a {
   text-decoration: none;
   color: inherit;
 }
-
 button {
   border: 0;
   margin: 0;
@@ -80,14 +85,13 @@ button {
   -webkit-font-smoothing: inherit;
   letter-spacing: inherit;
   background: none;
+  cursor: pointer;
   overflow: visible;
 }
-
 ::-moz-focus-inner {
   border: 0;
   padding: 0;
 }
-
 
 /* https://github.io/nancymtran*/
 * {
@@ -124,7 +128,7 @@ p {
 .intro h1 {
     display: block;
     text-align: center;
-    margin-top: 10%;
+    margin-top: 15%;
 }
 
 /* Navigation bar */
@@ -135,7 +139,7 @@ p {
     display: block;
     width: 100%; /* full width regardless of screen size*/
     padding: 0%;
-    margin-bottom: 10%;
+    margin-bottom: 15%;
 }
 
 /* Links inside the navigation bar */
