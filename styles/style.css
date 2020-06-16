@@ -52,11 +52,13 @@ figure {
 
 
 /* https://github.io/nancymtran*/
-* {
+
+/* {
     background-image: linear-gradient(315deg, #d9e4f5 0%, #f5e3e6 74%);
     background-repeat: no-repeat; /*background does not repeat itself*/
-    background-attachment: fixed; /*background does not repeat itself*/
-    cursor: url(/assets/wand.png), auto;
+ /*   background-attachment: fixed; /*background does not repeat itself*/
+   /* cursor: url(/assets/wand.png), auto;
+
 }
 /*<div>Icons made by <a href="https://www.flaticon.com/free-icon/wand_861556" 
 title="Good Ware">Good Ware</a> from <a href="https://www.flaticon.com/" 
@@ -160,9 +162,9 @@ p {
 .downloadResumeButton:hover {
 background-color: #514c4d;   
 color: whitesmoke;
-/*opacity: 0.8;
+opacity: 0.8;
 filter: alpha(opacity=80);
-transition: 0.1s;*/
+transition: 0.1s;
 }
 
 .contactButtons {
