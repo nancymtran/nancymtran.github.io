@@ -63,16 +63,6 @@ a {
 }
 
 button {
-  border: 0;
-  margin: 0;
-  padding: 0;
-  text-align: inherit;
-  text-transform: inherit;
-  font: inherit;
-  -webkit-font-smoothing: inherit;
-  letter-spacing: inherit;
-  background: none;
-  cursor: pointer;
   overflow: visible;
 }
 
@@ -106,7 +96,6 @@ p {
     color: #514c4d;
     font-family: 'Montserrat', sans-serif;
     padding-left: 1%;
-    padding-right: 1%;
 }
 
 .intro h1 {
@@ -184,6 +173,8 @@ p {
   border-radius: 8px;
   width: 100%;
   box-shadow: 3px 3px 3px 3px rgb(220, 203, 206);
+  margin-top: 2%;
+  margin-bottom: 2%;
 }
 
 .downloadResumeButton:hover {
