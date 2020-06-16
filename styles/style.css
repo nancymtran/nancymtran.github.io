@@ -165,6 +165,7 @@ filter: alpha(opacity=80);
 transition: 0.1s;
 }
 
+/*
 #googleForms iframe {
   border: 0;
   width: 900px;
@@ -172,3 +173,4 @@ transition: 0.1s;
   justify-content: center;
   align-item: center;
 }
+*/
