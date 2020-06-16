@@ -151,11 +151,14 @@ p {
     color: #514c4d;
     border: #514c4d 3px;
     border-radius: 8px;
-    width: 20%;
+    width: 100px;
     box-shadow: 3px 3px 3px 3px rgb(220, 203, 206);
     margin-top: 2%;
     margin-bottom: 2%;
-    margin-right: 50%;
+    display: flex;
+    justify-content: center;
+    justify-items: center;
+    justify-self: center;
 }
 
 .downloadResumeButton:hover {
