@@ -166,10 +166,10 @@ p {
     transition: 0.3s;
 }
 
-.favicon {
+.container img {
   width: 200px;
   height: 200px;
-  display: flexbox;
+  display: flex;
   justify-content: center;
   padding-top: 1%;
   padding-bottom: 1%;
