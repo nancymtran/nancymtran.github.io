@@ -165,3 +165,11 @@ p {
     transform: scale(1.1);
     transition: 0.3s;
 }
+
+.favicon {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-top: 1%;
+  padding-bottom: 1%;
+}
