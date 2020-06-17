@@ -72,6 +72,19 @@ body {
     line-height: 1;
 }
 
+body::-webkit-scrollbar {
+  width: 1em;
+}
+
+body::-webkit-scrollbar-track {
+  background: #f7f7f7;
+}
+
+body::-webkit-scrollbar-thumb {
+  background-color: #f5e3e6;
+  border-radius: 10px;
+}
+
 
 p {
     color: #514c4d;
@@ -164,14 +177,4 @@ p {
     color: #514c4d;
     transform: scale(1.1);
     transition: 0.3s;
-}
-
-.container img {
-  width: 200px;
-  height: 200px;
-  display: flex;
-  justify-content: center;
-  padding-top: 1%;
-  padding-bottom: 1%;
-  
 }
