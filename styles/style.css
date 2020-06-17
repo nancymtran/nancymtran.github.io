@@ -167,10 +167,11 @@ p {
 }
 
 .favicon {
+  width: 5%;
   display: flex;
   justify-content: center;
   align-items: center;
   padding-top: 1%;
   padding-bottom: 1%;
-  width: 10%;
+  
 }
