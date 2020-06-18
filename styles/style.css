@@ -182,9 +182,5 @@ p {
 }
 
 .avatar img {
-  width: 20px;
-  height: 20px;
-  display: flex; 
-  justify-content: center;
-  align-items: center;
+  background-size: 20px;
 }
