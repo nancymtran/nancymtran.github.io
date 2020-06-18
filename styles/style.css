@@ -181,7 +181,7 @@ p {
     transition: 0.3s;
 }
 
-.avatar img:hover{
+.avatar img {
   width: 20px;
   height: 20px;
   display: flex; 
