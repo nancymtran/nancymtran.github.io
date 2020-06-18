@@ -70,12 +70,11 @@ body {
     font-family: 'Montserrat', sans-serif;
     text-align: left;
     color: #514c4d;
-    position: fixed;
+    /*position: fixed;*/
     line-height: 1;
     
 }
 
-/*
 body::-webkit-scrollbar {
   width: 1em;
 }
@@ -88,7 +87,8 @@ body::-webkit-scrollbar-thumb {
   background-color: #8225E2;
   border-radius: 10px;
 }
-*/
+
+
 
 p {
     color: #514c4d;
