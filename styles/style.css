@@ -110,7 +110,7 @@ p {
     width: 100%; /* full width regardless of screen size*/
     padding: 0%;
     margin-bottom: 15%;
-    border-bottom: #FCF6F7;
+    border-bottom: #FCF6F7 4px;
 }
 
 /* Links inside the navigation bar */
