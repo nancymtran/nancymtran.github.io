@@ -73,6 +73,7 @@ body {
     color: #514c4d;
     position: fixed;
     line-height: 1;
+    overflow-y : auto;
 }
 
 body::-webkit-scrollbar {
