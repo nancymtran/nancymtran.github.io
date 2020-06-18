@@ -56,7 +56,7 @@ figure {
 /* https://github.io/nancymtran*/
 
 * {
-    background-image: linear-gradient(315deg, #d9e4f5 0%, #f5e3e6 74%);
+    background: linear-gradient(315deg, #d9e4f5 0%, #f5e3e6 74%);
     background-repeat: no-repeat; /*background does not repeat itself*/
     background-attachment: fixed; /*background does not repeat itself*/
     cursor: url(/assets/wand.png), auto;
@@ -89,10 +89,6 @@ body::-webkit-scrollbar-thumb {
   border-radius: 10px;
 }
 */
-
-.space {
-  height: 1000px;
-}
 
 p {
     color: #514c4d;
