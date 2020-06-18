@@ -81,7 +81,7 @@ body::-webkit-scrollbar-track {
 }
 
 body::-webkit-scrollbar-thumb {
-  background-color: #f5e3e6;
+  background-color: #8225E2;
   border-radius: 10px;
 }
 
@@ -177,4 +177,9 @@ p {
     color: #514c4d;
     transform: scale(1.1);
     transition: 0.3s;
+}
+
+.avatar img:hover{
+  width: 100px;
+  height: 100px
 }
