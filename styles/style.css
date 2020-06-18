@@ -72,6 +72,7 @@ body {
     color: #514c4d;
     position: fixed;
     line-height: 1;
+    
 }
 
 /*
@@ -89,6 +90,9 @@ body::-webkit-scrollbar-thumb {
 }
 */
 
+.space {
+  height: 1000px;
+}
 
 p {
     color: #514c4d;
