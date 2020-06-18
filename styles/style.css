@@ -84,7 +84,7 @@ body::-webkit-scrollbar-track {
 }
 
 body::-webkit-scrollbar-thumb {
-  background-color: #514c4d;
+  background-color: #DCCCCF;
 }
 
 
@@ -110,6 +110,7 @@ p {
     width: 100%; /* full width regardless of screen size*/
     padding: 0%;
     margin-bottom: 15%;
+    border-bottom: #FCF6F7;
 }
 
 /* Links inside the navigation bar */
@@ -117,7 +118,7 @@ p {
     float:left;
     color: black;
     opacity: 0.5;
-    text-align: center;
+    text-align: left;
     padding: 20px 20px;
     text-decoration: none;
     font-family: 'Montserrat', sans-serif;
