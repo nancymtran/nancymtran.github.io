@@ -188,10 +188,16 @@ p {
     transition: 0.3s;
 }
 
-.avatar img {
-  background-size: 20px 20px;
+#avatar {
+  display: flex;
+  justify-content: center;
 }
 
+#avatar img {
+  width: 50px;
+  height: 50px;
+  display: inline-block;
+}
 /*
 #btnScrollToTop {
   position: -webkit-sticky;
