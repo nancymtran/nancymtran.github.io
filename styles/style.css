@@ -145,6 +145,7 @@ p {
 #socialMedia {
     display: flex;
     justify-content: center;
+    margin-top: 5%;
 }
 
 
