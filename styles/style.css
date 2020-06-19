@@ -188,16 +188,31 @@ p {
     transition: 0.3s;
 }
 
+/*Nancy Tran's Avatar (created by Nancy Tran)*/
 #avatar {
   display: flex;
   justify-content: center;
 }
 
 #avatar img {
-  width: 10%;
-  height: 10%;
+  width: 40%;
+  height: 40%;
   display: inline-block;
 }
+
+/*Nancy Tran's Flat-Design Potted Plants (created by Nancy Tran)*/
+#plants {
+  display: flex;
+  justify-content: center;
+}
+
+#plants img {
+  width: 40%;
+  height: 40%;
+  display: inline-block;
+}
+
+
 /*
 #btnScrollToTop {
   position: -webkit-sticky;
