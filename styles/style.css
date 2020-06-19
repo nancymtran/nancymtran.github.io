@@ -101,6 +101,11 @@ p {
     margin-top: 15%;
 }
 
+.intro h3 {
+  display: block;
+  text-align: center;
+}
+
 /* Navigation bar */
 .navbar{
     overflow: visible;
