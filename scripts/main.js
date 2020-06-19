@@ -1,6 +1,7 @@
-const btnScrollToTop = document.querySelector("#btnScrollToTop");
 
-btnScrollToTop.addEventListener("click", function {
+//const btnScrollToTop = document.querySelector("#btnScrollToTop");
+
+//btnScrollToTop.addEventListener("click", function {
 
     // window.scrollTo(0,0);
     
@@ -12,8 +13,8 @@ btnScrollToTop.addEventListener("click", function {
     });
     */
 
-    $("html, body").animate({ scrollTop: 0 }, "slow");
+  //  $("html, body").animate({ scrollTop: 0 }, "slow");
 
 
 
-});
+// });
