@@ -1,58 +1,3 @@
-/** Fix * Version 0.1.1 *https://github.com/jaydenseric/Fix */
-
-/*
-html {
-  -ms-text-size-adjust: 100%;
-  -webkit-text-size-adjust: 100%;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  -webkit-tap-highlight-color: transparent;
-}
-
-iframe {
-  border: 0;
-}
-
-main {
-  display: block;
-}
-
-ul, ol {
-  margin-top: 0;
-  margin-bottom: 0;
-  padding-left: 0;
-}
-
-li {
-  display: block;
-}
-
-dl {
-  margin-top: 0;
-  margin-bottom: 0;
-}
-
-dd {
-  margin-left: 0;
-}
-
-h1, h2, h3, h4, h5, h6 {
-  margin-top: 0;
-  margin-bottom: 0;
-}
-
-blockquote {
-  margin: 0;
-  padding: 0;
-}
-
-
-figure {
-  margin: 0;
-}
-*/
-
-
 /* https://github.io/nancymtran*/
 
 * {
@@ -86,13 +31,15 @@ body::-webkit-scrollbar-thumb {
   background-color: #DCCCCF;
 }
 
+p, h2 {
+  color: #514c4d;
+  font-family: 'Montserrat', sans-serif;
+  text-align: center;
+}
 
-
-p {
-    color: #514c4d;
-    font-family: 'Montserrat', sans-serif;
+.intro p {
     padding-left: 1%;
-    text-align: center;
+    text-align: left;
 }
 
 .intro h1 {
