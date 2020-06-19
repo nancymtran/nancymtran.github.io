@@ -37,9 +37,15 @@ body::-webkit-scrollbar-thumb {
   margin-top: 15%;
 }
 
+.intro h2 {
+  display: block;
+  text-align: center;
+}
+
 .intro p {
   padding-left: 1%;
   text-align: left;
+  margin-bottom: 5%;
 }
 
 .intro h3 {
