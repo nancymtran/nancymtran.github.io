@@ -72,6 +72,7 @@ body {
     color: #514c4d;
     /*position: fixed;*/
     line-height: 1;
+    display: flex;
     
 }
 
@@ -190,4 +191,23 @@ p {
 
 .avatar img {
   background-size: 20px 20px;
+}
+
+#btnScrollToTop {
+  position: fixed;
+  right: 10px;
+  bottom: 10px;
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  background: #DCCCCF;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.25);
+  color: #514c4d;
+  outline: none;
+  border: none;
+}
+
+btnScrollToTop:active {
+  background-color: #DCCCCF; opacity: 70; 
+  filter: alpha(opacity=70);
 }
