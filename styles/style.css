@@ -31,25 +31,26 @@ body::-webkit-scrollbar-thumb {
   background-color: #DCCCCF;
 }
 
-p, h2 {
-  color: #514c4d;
-  font-family: 'Montserrat', sans-serif;
+.intro h1 {
+  display: block;
   text-align: center;
+  margin-top: 15%;
 }
 
 .intro p {
-    padding-left: 1%;
-    text-align: left;
-}
-
-.intro h1 {
-    display: block;
-    text-align: center;
-    margin-top: 15%;
+  padding-left: 1%;
+  text-align: left;
 }
 
 .intro h3 {
+  padding-left: 1%;
   display: block;
+  text-align: left;
+}
+
+p, h2 {
+  color: #514c4d;
+  font-family: 'Montserrat', sans-serif;
   text-align: center;
 }
 
