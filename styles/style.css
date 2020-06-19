@@ -194,7 +194,8 @@ p {
 }
 
 #btnScrollToTop {
-  position: absolute;
+  position: -webkit-sticky;
+  position: sticky;
   right: 10px;
   bottom: 10px;
   width: 50px;
