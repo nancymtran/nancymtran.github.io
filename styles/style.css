@@ -70,7 +70,7 @@ p, h1 {
     width: 100%; /* full width regardless of screen size*/
     padding: 0%;
     margin-bottom: 15%;
-    border-bottom: #FCF6F7 4px;
+    border-bottom: 3px solid whitesmoke;
 }
 
 /* Links inside the navigation bar */
@@ -186,23 +186,6 @@ p, h1 {
   display: inline-block;
 }
 
-/*
-#btnScrollToTop {
-  position: -webkit-sticky;
-  position: sticky;
-  right: 10px;
-  bottom: 10px;
-  width: 50px;
-  height: 50px;
-  border-radius: 50%;
-  background: #DCCCCF;
-  box-shadow: 0 0 10px rgba(0, 0, 0, 0.25);
-  color: #514c4d;
-  outline: none;
-  border: none;
-}
-*/
-
 #btnScrollToTop {
   display: none;
   position: fixed;
@@ -222,4 +205,24 @@ p, h1 {
   transform: scale(1.1);
   background-color: #DCCCCF; opacity: 70; 
   filter: alpha(opacity=70);
+}
+
+/* unvisited link */
+.otherLinks a:link {
+  color:#514c4d; 
+}
+
+/* visited link */
+.otherLinks a:visited {
+  color: #DCCCCF;
+}
+
+/* mouse over link */
+.otherLinks a:hover {
+  color: #D6CFCB;
+}
+
+/* selected link */
+.otherLinks a:active {
+  color: #D6CFCB;
 }
