@@ -42,6 +42,11 @@ body::-webkit-scrollbar-thumb {
   text-align: center;
 }
 
+.intro h3 {
+  padding-left: 1%;
+  text-align: left;
+}
+
 .intro p {
   padding-left: 1%;
   text-align: left;
