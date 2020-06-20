@@ -96,6 +96,9 @@ p, h1 {
     filter: alpha(opacity=70);
 }
 
+.footer {
+  margin-bottom: 5%;
+}
 
 .footer p {
   font-size: x-small;
