@@ -182,6 +182,7 @@ p, h1 {
   display: inline-block;
 }
 
+/*
 #btnScrollToTop {
   position: -webkit-sticky;
   position: sticky;
@@ -195,6 +196,23 @@ p, h1 {
   color: #514c4d;
   outline: none;
   border: none;
+}
+*/
+
+#btnScrollToTop {
+  display: none;
+  position: fixed;
+  bottom: 20px;
+  right: 30px;
+  z-index: 99;
+  font-size: 18px;
+  border: none;
+  outline: none;
+  background: #DCCCCF;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.25);
+  color: #514c4d;
+  padding: 15px;
+  border-radius: 4px;
 }
 
 #btnScrollToTop:active {
