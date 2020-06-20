@@ -70,7 +70,7 @@ p, h1 {
     width: 100%; /* full width regardless of screen size*/
     padding: 0%;
     margin-bottom: 15%;
-    border-bottom: 3px solid whitesmoke;
+    border-bottom: 4px solid whitesmoke;
 }
 
 /* Links inside the navigation bar */
@@ -183,6 +183,7 @@ p, h1 {
 #pageNotFound img {
   width: 60%;
   height: 60%;
+  margin-left: 20%;
   display: inline-block;
 }
 
