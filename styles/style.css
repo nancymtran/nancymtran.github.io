@@ -70,7 +70,7 @@ p, h1 {
     width: 100%; /* full width regardless of screen size*/
     padding: 0%;
     margin-bottom: 15%;
-    border-bottom: 4px solid whitesmoke;
+    /*border-bottom: 4px solid whitesmoke;*/
 }
 
 /* Links inside the navigation bar */
@@ -197,7 +197,7 @@ p, h1 {
   outline: none;
   background: #DCCCCF;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.25);
-  color: #DCCCCF;
+  color: #514c4d;
   padding: 15px;
   border-radius: 4px;
 }
