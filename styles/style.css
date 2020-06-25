@@ -115,7 +115,7 @@ p, h1 {
   nav ul li.items{
   position: relative;
   width: auto;
-  margin: 0 16px;
+  /*margin: 0 16px;*/
   text-align: center;
   order: 3;
   }
