@@ -299,7 +299,7 @@ nav{
 }
 nav ul li.items{
   width: 100%;
-  display: none;
+  display: block;
 }
 nav ul li.items.show{
   display: block;
