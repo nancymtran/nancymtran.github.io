@@ -292,8 +292,6 @@ p, h1 {
 
 @media all and (max-width: 900px){
 .navbar{
-    background: blue;
-    display: flex;
     margin-right: 5%;
 } 
 nav{
@@ -301,13 +299,13 @@ nav{
 }
 nav ul li.items{
   width: 100%;
-  display: block;
+  display: none;
 }
 nav ul li.items.show{
   display: block;
 }
 nav ul li.btn{
-  display: flex;
+  display: block; 
 }
 nav ul li.items:hover{
   border-radius: 5px;
