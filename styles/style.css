@@ -292,7 +292,9 @@ p, h1 {
 
 @media all and (max-width: 900px){
 .navbar{
-    background: beige;
+    background: blue;
+    display: flex;
+    margin-right: 5%;
 } 
 nav{
   padding: 5px 0px;
