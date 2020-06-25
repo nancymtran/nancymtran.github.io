@@ -61,8 +61,8 @@ p, h1 {
   text-align: center;
 }
 
-/* Navigation bar */
-.navbar{
+  /* Navigation bar */
+  .navbar{
     background: linear-gradient(315deg, #d9e4f5     0%, #f5e3e6 74%);
     background-repeat: no-repeat; /*background    does not repeat itself*/
     background-attachment: fixed; /*background does not repeat itself*/
@@ -74,10 +74,10 @@ p, h1 {
     padding: 0%;
     /*margin-bottom: 15%;*/
     /*border-bottom: 4px solid whitesmoke;*/
-}
-
-/* Links inside the navigation bar */
-/*.navbar a{
+  }
+  
+  /* Links inside the navigation bar */
+  /*.navbar a{
     float:left;
     color: black;
     opacity: 0.5;
@@ -88,38 +88,38 @@ p, h1 {
     font-size: 20px;
     opacity: 0.5;
     filter: alpha(opacity=50);
-}
-*/
-
-/* Change background on mouse-over/hover */
-/*.navbar a:hover {
+  }
+  */
+  
+  /* Change background on mouse-over/hover */
+  /*.navbar a:hover {
     transform: scale(1.1);
     transition: 0.5s;
     opacity: 0.7;
     filter: alpha(opacity=70);
-}
-*/
-
-
-nav ul{
+  }
+  */
+  
+  
+  nav ul{
   list-style: none;
   display: flex;
   flex-wrap: wrap;
   align-items: center;
   justify-content: center;
-
-}
-nav ul li{
+  
+  }
+  nav ul li{
   padding: 15px 0;
-}
-nav ul li.items{
+  }
+  nav ul li.items{
   position: relative;
   width: auto;
   margin: 0 16px;
   text-align: center;
   order: 3;
-}
-nav ul li.items:after{
+  }
+  nav ul li.items:after{
   position: absolute;
   content: '';
   left: 0;
@@ -129,58 +129,35 @@ nav ul li.items:after{
   background: #514c4d;
   opacity: 0;
   transition: all 0.2s linear;
-}
-nav ul li.items:hover:after{
+  }
+  nav ul li.items:hover:after{
   opacity: 1;
   bottom: 8px;
-}
-nav ul li.logo{
+  }
+  nav ul li.logo{
   flex: 1;
   color: #514c4d;
   font-size: x-large;
   font-weight: 600;
-}
-nav ul li a{
+  }
+  nav ul li a{
   color: #514c4d;
   font-size: large;
   text-decoration: none;
   transition: .4s;
-}
-nav ul li:hover a{
+  }
+  nav ul li:hover a{
   color: #514c4d;
-}
-nav ul li i{
+  }
+  nav ul li i{
   font-size: 23px;
-
-}
-nav ul li.btn{
-  display: none;
-}
-nav ul li.btn.hide i:before{
-  content: '\f00d';
-}
-
-@media all and (max-width: 900px){
-  nav{
-    padding: 5px 30px;
-  }
-  nav ul li.items{
-    width: 100%;
-    display: none;
-  }
-  nav ul li.items.show{
-    display: block;
+  
   }
   nav ul li.btn{
-    display: block;
+  display: none;
   }
-  nav ul li.items:hover{
-    border-radius: 5px;
-    box-shadow: inset 0 0 5px whitesmoke,
-                inset 0 0 10px whitesmoke;
-  }
-  nav ul li.items:hover:after{
-    opacity: 0;
+  nav ul li.btn.hide i:before{
+  content: '\f00d';
   }
 
 .footer {
@@ -310,21 +287,30 @@ nav ul li.btn.hide i:before{
   font-weight: bolder;
 }
 
-#menu-icon {
-	display: hidden;
-	width: 40px;
-	height: 40px;
-	background: url(https://image.flaticon.com/icons/svg/1828/1828859.svg) center;
-	background-size: contain;
-}
+  
 
-/*Media Query*/
-@media only screen and (max-width : 768px) {
-	.navbar {
-		position: absolute;
-  }
-  
-  #menu-icon {
-		display:inline-block;
-  }
-  
+
+@media all and (max-width: 900px){
+nav{
+  padding: 5px 30px;
+}
+nav ul li.items{
+  width: 100%;
+  display: none;
+}
+nav ul li.items.show{
+  display: block;
+}
+nav ul li.btn{
+  display: block;
+}
+nav ul li.items:hover{
+  border-radius: 5px;
+  box-shadow: inset 0 0 5px whitesmoke,
+              inset 0 0 10px whitesmoke;
+  background-color: beige;
+}
+nav ul li.items:hover:after{
+  opacity: 0;
+}
+}
