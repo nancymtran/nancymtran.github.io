@@ -119,6 +119,7 @@ p, h1 {
   text-align: center;
   order: 3;
   }
+
   nav ul li.items:after{
   position: absolute;
   content: '';
@@ -293,9 +294,10 @@ p, h1 {
 @media all and (max-width: 900px){
 .navbar{
     margin-right: 5%;
+    z-index: 1;
 } 
 nav{
-  padding: 5px 0px;
+  padding: 2% 2%;
 }
 nav ul li.items{
   width: 100%;
