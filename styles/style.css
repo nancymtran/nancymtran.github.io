@@ -107,11 +107,12 @@ p, h1 {
   flex-wrap: wrap;
   align-items: center;
   justify-content: center;
-  
   }
+
   nav ul li{
-  padding: 15px 0;
+  padding: 15px 30px;
   }
+
   nav ul li.items{
   position: relative;
   width: auto;
@@ -294,6 +295,7 @@ p, h1 {
 @media all and (max-width: 900px){
 .navbar{
     z-index: 9999;
+    padding: 15px 30px;
 } 
 nav{
   padding: 15px 30px;
