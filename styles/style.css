@@ -293,11 +293,10 @@ p, h1 {
 
 @media all and (max-width: 900px){
 .navbar{
-    margin-right: 5%;
     z-index: 9999;
 } 
 nav{
-  padding: 5% 5%;
+  padding: 15px 30px;
   z-index: 9999;
 }
 nav ul li.items{
@@ -310,7 +309,9 @@ nav ul li.items.show{
 }
 nav ul li.btn{
   display: block; 
+  margin-left: 95%;
 }
+
 nav ul li.items:hover{
   border-radius: 5px;
   box-shadow: inset 0 0 5px whitesmoke,
