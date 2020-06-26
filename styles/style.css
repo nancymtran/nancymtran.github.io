@@ -303,6 +303,8 @@ nav{
 nav ul li.items{
   width: 100%;
   display: none;
+  margin-right: 5%;
+  align-items: center;
 }
 nav ul li.items.show{
   display: block;
