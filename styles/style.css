@@ -118,6 +118,7 @@ p, h1 {
   width: auto;
   margin: 0 16px;
   text-align: center;
+  align-items: center;
   order: 3;
   }
 
