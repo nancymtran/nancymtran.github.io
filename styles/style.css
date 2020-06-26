@@ -295,6 +295,7 @@ p, h1 {
 @media all and (max-width: 900px){
 .navbar{
     z-index: 9999;
+    margin-bottom: 50%;
 } 
 nav{
   padding: 5px 30px;
