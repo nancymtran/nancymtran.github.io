@@ -23,16 +23,27 @@
 
 <body>
     <!-- nav bar -->
-    <nav>
-        <div class="navbar">
-            <a class="active" href="index.html">Home</a>
-            <a href="about.html">About</a>
-            <a href="portfolio.html">Portfolio</a>
-            <a href="resume.html">Resume</a>
-            <a href="contact.html">Contact</a>
-        </div>
-    </nav>
+    <div class="navbar">
+        <nav>
+            <ul>
+                <li class="items"><a href="index.html">Home</a></li>
+                <li class="items"><a href="about.html">About</a></li>
+                <li class="items"><a href="portfolio.html">Portfolio</a></li>
+                <li class="items"><a href="resume.html">Resume</a></li>
+                <li class="items"><a href="contact.html">Contact</a></li>
+                <li class="btn"><a href="#"><i class="fas fa-bars"></i></a></li><!--this is the menu bar-->
+            </ul>
+        </nav>
+    </div>
 
+    <script>
+        $(document).ready(function(){
+          $('.btn').click(function(){
+            $('.items').toggleClass("show");
+            $('ul li').toggleClass("hide");
+          });
+        });
+      </script>
 
     <div class=intro>
         <h1>Whoops! Page not found.</h1>
