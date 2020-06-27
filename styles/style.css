@@ -293,15 +293,11 @@ p, h1 {
 
 
 @media all and (max-width: 900px){
-.navbar{
-    z-index: 9999;
-
-} 
 nav{
   padding: 5px 30px;
-
   margin-bottom: 50%;
 }
+
 nav ul li.items{
   width: 100%;
   display: none;
@@ -309,7 +305,7 @@ nav ul li.items{
 
 nav ul li.items.show{
   display: block;
-
+  margin-right: 20%;
 }
 nav ul li.btn{
   display: block; 
