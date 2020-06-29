@@ -18,7 +18,7 @@ body {
     /*position: fixed;*/
     line-height: 1;
     scroll-behavior: smooth;
-    animation: fadeInAnimation ease 1.5s;
+    animation: fadeInAnimation ease 2s;
     animation-iteration-count: 1; 
     animation-fill-mode: forwards;
     }
