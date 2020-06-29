@@ -350,43 +350,22 @@ margin-top: 15%;
 
 /* Small Devices, Tablets */
 @media all and (max-width : 768px) {
-body{
-background: orange;
-}
 .intro h1 {
 margin-top: 25%;
 }
-    nav ul li.items.show {
-  margin-bottom: 15%;
-}
-
 }
 
 /* Extra Small Devices, Phones */ 
 @media all and (max-width : 480px) {
-body{
-background: green;
-}
 .intro h1 {
 margin-top: 35%;
-}
-  nav ul li.items.show {
-  margin-bottom: 30%;
 }
 }
 
 /* Custom, iPhone Retina */ 
 @media all and (max-width : 320px) {
-body{
-background: blue;
-}
-
  .intro h1 {
 margin-top: 45%;
-}
-
-nav ul li.items.show {
-  margin-bottom: 50%;
 }
 }
 
