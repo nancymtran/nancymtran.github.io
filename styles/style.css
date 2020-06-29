@@ -75,7 +75,8 @@ text-align: center;
 
 /* Navigation bar */
 .navbar{
-  background: linear-gradient(315deg, #d9e4f5     0%, #f5e3e6 74%);
+  background: #efe4ea;
+  /*background: linear-gradient(315deg, #d9e4f5 0%, #f5e3e6 74%);*/
   background-repeat: no-repeat; /*background    does not repeat itself*/
   background-attachment: fixed; /*background does not repeat itself*/
   overflow: visible;
@@ -119,7 +120,7 @@ justify-content: center;
 }
 
 nav ul li{
-padding: 2% 0;
+padding: 1.5% 0;
 }
 
 nav ul li.items{
@@ -145,12 +146,7 @@ nav ul li.items:hover:after{
 opacity: 1;
 bottom: 8px;
 }
-nav ul li.logo{
-flex: 1;
-color: #514c4d;
-font-size: x-large;
-font-weight: 600;
-}
+
 nav ul li a{
 color: #514c4d;
 font-size: large;
@@ -270,8 +266,8 @@ right: 30px;
 z-index: 99;
 border: none;
 outline: none;
-background: #DCCCCF;
-box-shadow: 0 0 10px rgba(0, 0, 0, 0.25);
+background: #efe4ea;
+/*box-shadow: 0 0 10px rgba(0, 0, 0, 0.25);*/
 color: #514c4d;
 padding: 15px;
 border-radius: 50%;
@@ -279,7 +275,8 @@ border-radius: 50%;
 
 #btnScrollToTop:active {
 transform: scale(1.1);
-background-color: #DCCCCF; opacity: 70; 
+background-color: #efe4ea;
+opacity: 70; 
 filter: alpha(opacity=70);
 }
 
@@ -330,7 +327,7 @@ margin-left: 95%;
 }
 
 nav ul li.items:hover{
-border-radius: 5px;
+/*border: 1px solid #514c4d;*/
 box-shadow: inset 0 0 5px whitesmoke,
             inset 0 0 10px whitesmoke;
 }
