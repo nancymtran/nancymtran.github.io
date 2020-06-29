@@ -19,6 +19,7 @@ body {
   animation: fadeInAnimation ease 2s;
   animation-iteration-count: 1; 
   animation-fill-mode: forwards;
+    margin: 0;
   }
 
 @keyframes fadeInAnimation { 
@@ -36,7 +37,7 @@ width: 1em;
 }
 
 body::-webkit-scrollbar-track {
-background: #f7f7f7;
+background: #f8f8f8;
 }
 
 body::-webkit-scrollbar-thumb {
@@ -46,7 +47,7 @@ background-color: #DCCCCF;
 .intro h1 {
 display: block;
 text-align: center;
-margin-top: 15%;
+margin-top: 10%;
 }
 
 .intro h2 {
@@ -82,9 +83,6 @@ text-align: center;
   top: 0; /* nav bar is at the top of the page */
   display: block;
   min-width: 100%; /* full width regardless of screen size*/
-  padding: 0%;
-  /*margin-bottom: 15%;*/
-  /*border-bottom: 4px solid whitesmoke;*/
 }
 
 /* Links inside the navigation bar */
@@ -121,13 +119,13 @@ justify-content: center;
 }
 
 nav ul li{
-padding: 15px 0;
+padding: 2% 0;
 }
 
 nav ul li.items{
 position: relative;
 width: auto;
-margin: 0 16px;
+margin: 0 2%;
 text-align: center;
 order: 3;
 }
@@ -321,9 +319,8 @@ display: none;
 
 nav ul li.items.show{
 display: block;
-margin-right: 20%;
+margin-right: 10%;
 animation: fadeIn 1s;
-border-bottom: 3px solid whitesmoke ;
 }
 
 nav ul li.btn{
