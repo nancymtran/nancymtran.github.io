@@ -68,6 +68,8 @@ body::-webkit-scrollbar-thumb {
     margin-bottom: 5%;
     margin-left: 5%;
     margin-right: 5%;
+    text-align: justify;
+    text-justify: inner-word;
 }
 
 /*styling outside of header*/
