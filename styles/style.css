@@ -8,9 +8,7 @@ title="Good Ware">Good Ware</a> from <a href="https://www.flaticon.com/"
 title="Flaticon">www.flaticon.com</a></div>*/
 
 body {
-  background: linear-gradient(315deg, #d9e4f5 0%, #f5e3e6 74%);
-  background-repeat: no-repeat; /*background does not repeat itself*/
-  background-attachment: fixed; /*background does not repeat itself*/
+ background: whitesmoke;
   backface-visibility: visible;
   font-family: 'Montserrat', sans-serif;
   text-align: left;
@@ -325,6 +323,7 @@ nav ul li.items.show{
 display: block;
 margin-right: 20%;
 animation: fadeIn 1s;
+border-bottom: 3px solid whitesmoke ;
 }
 
 nav ul li.btn{
