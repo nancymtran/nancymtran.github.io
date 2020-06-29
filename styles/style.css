@@ -18,7 +18,20 @@ body {
     /*position: fixed;*/
     line-height: 1;
     scroll-behavior: smooth;
-}
+    animation: fadeInAnimation ease 3s;
+    animation-iteration-count: 1; 
+    animation-fill-mode: forwards;
+    }
+  
+@keyframes fadeInAnimation { 
+    0% { 
+        opacity: 0; 
+    } 
+    100% { 
+        opacity: 1; 
+      } 
+} 
+
 
 body::-webkit-scrollbar {
   width: 1em;
@@ -298,7 +311,6 @@ p, h1 {
 } 
   nav{
   padding: 5px 30px;
-  z-index: 9999;
 }
 
 nav ul li.items{
