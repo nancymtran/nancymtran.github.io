@@ -241,6 +241,18 @@ nav ul li.btn.hide i:before{
     display: inline-block;
 }
 
+/*Nancy Tran's Flat-Design Open Book (created by Nancy Tran)*/
+#book {
+  display: flex;
+  justify-content: center;
+}
+
+#book img {
+  width: 40%;
+  height: 40%;
+  display: inline-block;
+}
+
 /*Button Scoll to Top styling*/
 #btnScrollToTop {
     display: none;
@@ -270,12 +282,6 @@ nav ul li.btn.hide i:before{
     color:#514c4d; /* unvisited link */
 }
 
-
-.otherLinks:visited {
-    color: #DCCCCF; /* visited link */
-}
-
-
 .otherLinks:hover {
     font-weight: bolder; /* mouse over link */
 }
@@ -295,7 +301,7 @@ nav ul li.btn.hide i:before{
 }
 
 
-/*styling for screens with a maximum width of 992px*/
+/*------------------ styling for screens with a maximum width of 992px ------------------*/
 @media all and (max-width: 992px){
 
   .navbar{
@@ -362,7 +368,7 @@ nav ul li.btn.hide i:before{
 
 
 
-/* Small Devices, Tablets */
+/*------------------ Small Devices, Tablets ------------------*/
 @media all and (max-width : 768px) {
 
   .intro h1 {
@@ -402,7 +408,7 @@ nav ul li.btn.hide i:before{
 }
 
 
-/* Extra Small Devices, Phones */ 
+/*------------------ Extra Small Devices, Phones ------------------*/ 
 @media all and (max-width : 480px) {
 
   .intro h1 {
@@ -442,7 +448,7 @@ nav ul li.btn.hide i:before{
 }
 
 
-/* Custom, iPhone Retina */ 
+/*------------------ Custom, iPhone Retina ------------------*/ 
 @media all and (max-width : 320px) {
 
   .intro h1 {
@@ -525,5 +531,10 @@ nav ul li.btn.hide i:before{
     opacity: 0;
     display: flex;
   }
+
   
+.otherLinks:visited {
+    color: #DCCCCF; /* visited link /
+}  
+
 */
