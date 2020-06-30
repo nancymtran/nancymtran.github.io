@@ -247,12 +247,12 @@ nav ul li.btn.hide i:before{
 }
 
 /*Nancy Tran's Flat-Design Potted Plants (created by Nancy Tran)*/
-#plants, #book {
+#plants {
   display: flex;
   justify-content: center;
 }
 
-#plants, #book img {
+#plants img {
   width: 40%;
   height: 40%;
   display: inline-block;
