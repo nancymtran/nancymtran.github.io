@@ -253,6 +253,18 @@ nav ul li.btn.hide i:before{
   display: inline-block;
 }
 
+/*Nancy Tran's Flat-Design Resume (created by Nancy Tran)*/
+#fakeResume {
+  display: flex;
+  justify-content: center;
+}
+
+#fakeResume img {
+  width: 40%;
+  height: 40%;
+  display: inline-block;
+}
+
 /*Button Scoll to Top styling*/
 #btnScrollToTop {
     display: none;
