@@ -98,6 +98,7 @@ p {
     min-width: 100%; /* full width regardless of screen size*/
 }
 
+/* navbar top formatting */
 nav ul{
     list-style: none;
     display: flex;
@@ -106,10 +107,12 @@ nav ul{
     justify-content: center;
 }
 
+/*padding top/bottom of the navbar*/
 nav ul li{
     padding: 1.5% 0;
 }
 
+/* spacing between items in expanded navbar */
 nav ul li.items{
     position: relative;
     width: auto;
@@ -118,6 +121,7 @@ nav ul li.items{
     order: 3;
 }
 
+/* the underline under each item in expanded navbar when hover*/
 nav ul li.items:after{
     position: absolute;
     content: '';
@@ -135,6 +139,7 @@ nav ul li.items:hover:after{
     bottom: 8px;
 }
 
+/*font color and formatting of items in navbar*/
 nav ul li a{
     color: #514c4d;
     font-size: large;
@@ -142,13 +147,15 @@ nav ul li a{
     transition: .4s;
 }
 
+/*font color and formatting of items in navbar when hover*/
 nav ul li:hover a{
     color: #514c4d;
+    font-weight: bold;
 }
 
-nav ul li i{
+/*nav ul li i{
     font-size: 23px;
-}
+}*/
 
 nav ul li.btn{
     display: none;
