@@ -234,16 +234,28 @@ nav ul li.btn.hide i:before{
     display: inline-block;
 }
 
-/*Nancy Tran's Flat-Design Potted Plants (created by Nancy Tran)*/
-#plants, #book {
+/*Nancy Tran's Flat-Design Open Book (created by Nancy Tran)*/
+#book {
     display: flex;
     justify-content: center;
 }
 
-#plants, #book img {
+#book img {
     width: 40%;
     height: 40%;
     display: inline-block;
+}
+
+/*Nancy Tran's Flat-Design Potted Plants (created by Nancy Tran)*/
+#plants, #book {
+  display: flex;
+  justify-content: center;
+}
+
+#plants, #book img {
+  width: 40%;
+  height: 40%;
+  display: inline-block;
 }
 
 
