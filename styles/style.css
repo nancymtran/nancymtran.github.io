@@ -202,27 +202,6 @@ nav ul li.btn.hide i:before{
   margin-bottom: 1%;
 }
 
-/*Going to another page button styling*/
-.goToAnotherPageButton {
-  padding: 15px 30px;
-  font-family: 'Montserrat', sans-serif;
-  font-weight: bold;
-  text-align: center;
-  color: #514c4d;
-  border: #514c4d 3px;
-  border-radius: 8px;
-  width: 20%;
-  box-shadow: 3px 3px 3px 3px rgb(220, 203, 206);
-  margin-top: 2%;
-  margin-left: 40%;
-}
-
-/*Going to another page button when hover*/
-.goToAnotherPageButton:hover {
-  color: #514c4d;
-  transform: scale(1.1);
-  transition: 0.3s;
-}
 
 /*Focused Developer (Created by Undraw and re-designed by Nancy Tran)*/
 #devFocus {
@@ -672,4 +651,25 @@ nav ul li.items:hover:after{
   display: inline-block;
 }
 
+/*Going to another page button styling*/
+/*.goToAnotherPageButton {
+  padding: 15px 30px;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bold;
+  text-align: center;
+  color: #514c4d;
+  border: #514c4d 3px;
+  border-radius: 8px;
+  width: 20%;
+  box-shadow: 3px 3px 3px 3px rgb(220, 203, 206);
+  margin-top: 2%;
+  margin-left: 40%;
+}
+
+/*Going to another page button when hover*/
+/*.goToAnotherPageButton:hover {
+  color: #514c4d;
+  transform: scale(1.1);
+  transition: 0.3s;
+}
 */
