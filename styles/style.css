@@ -199,8 +199,10 @@ nav ul li.btn.hide i:before{
 
 #hairbuns img {
   height: auto;
-  max-width: 100%;
+  max-width: 50%;
   vertical-align: middle;
+  margin-top: 5%;
+  margin-bottom: 5%;
 }
 
 /*download resume button that will direct to pdf to download*/
