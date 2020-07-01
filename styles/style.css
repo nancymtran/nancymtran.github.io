@@ -229,7 +229,8 @@ nav ul li.btn.hide i:before{
   width: 30%;
   height: 30%;
   display: inline-block;
-  margin-top: 10%;
+  margin-top: 5%;
+  margin-bottom: 5%;
 }
 
 /*Nancy Tran's Flat-Design Potted Plants (created by Nancy Tran)*/
@@ -308,7 +309,7 @@ nav ul li.btn.hide i:before{
 }
 
 img {
-  height: auto;
+  height: 100%;
   max-width: 100%;
   vertical-align: middle;
 }
