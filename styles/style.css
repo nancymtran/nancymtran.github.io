@@ -321,7 +321,7 @@ nav ul li.btn.hide i:before{
 }
 
 img {
-  height: 50%;
+  height: auto;
   max-width: 100%;
   vertical-align: middle;
 }
