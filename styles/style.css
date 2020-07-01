@@ -10,7 +10,7 @@ body {
   /*position: fixed;*/
   line-height: 1;
   scroll-behavior: smooth;
-  animation: fadeInAnimation ease 2s;
+  animation: fadeInAnimation ease 1.3s;
   animation-iteration-count: 1; 
   animation-fill-mode: forwards;
   margin: 0;
@@ -151,10 +151,6 @@ nav ul li:hover a{
   font-weight: bold;
 }
 
-/*nav ul li i{
-  font-size: 23px;
-}*/
-
 nav ul li.btn{
   display: none;
 }
@@ -197,6 +193,7 @@ nav ul li.btn.hide i:before{
   filter: alpha(opacity=70);
 }
 
+/* A picture of Nancy Tran on the About me page */
 #hairbuns img {
   height: auto;
   max-width: 26%;
@@ -205,8 +202,8 @@ nav ul li.btn.hide i:before{
   margin-bottom: 1%;
 }
 
-/*download resume button that will direct to pdf to download*/
-.downloadResumeButton {
+/*Going to another page button styling*/
+.goToAnotherPage_btn{
   padding: 15px 30px;
   font-family: 'Montserrat', sans-serif;
   font-weight: bold;
@@ -220,14 +217,14 @@ nav ul li.btn.hide i:before{
   margin-left: 40%;
 }
 
-/*download resume button when hover*/
+/*Going to another page button when hover*/
 .downloadResumeButton:hover {
   color: #514c4d;
   transform: scale(1.1);
   transition: 0.3s;
 }
 
-/*Focused Developer (created by Undraw)*/
+/*Focused Developer (Created by Undraw and re-designed by Nancy Tran)*/
 #devFocus {
   display: flex;
   justify-content: center;
@@ -476,6 +473,14 @@ nav ul li.items:hover:after{
   margin-top: 15%;
 }
 
+#hairbuns img {
+  height: auto;
+  max-width: 40%;
+  margin-left: 20%;
+  margin-top: 1%;
+  margin-bottom: 1%;
+}
+
 #fakeResume img {
   width: 40%;
   height: 40%;
@@ -623,11 +628,15 @@ nav ul li.items:hover:after{
 
 
 
-/*Parking Lot Code - Unused */
+/*Parking Lot Code - Code that was cut from the final push */
 
 /*
 * {
 cursor: url(/assets/wand.png), auto; } /* Icons made by Good Ware (https://www.flaticon.com/free-icon/wand_861556) from https://www.flaticon.com/ */
+
+/*nav ul li i{
+  font-size: 23px;
+}*/
 
 /* Links inside the navigation bar */
 /*.navbar a{
