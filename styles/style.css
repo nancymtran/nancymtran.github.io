@@ -197,6 +197,12 @@ nav ul li.btn.hide i:before{
   filter: alpha(opacity=70);
 }
 
+#hairbuns img {
+  height: auto;
+  max-width: 100%;
+  vertical-align: middle;
+}
+
 /*download resume button that will direct to pdf to download*/
 .downloadResumeButton {
   padding: 15px 30px;
@@ -217,18 +223,6 @@ nav ul li.btn.hide i:before{
   color: #514c4d;
   transform: scale(1.1);
   transition: 0.3s;
-}
-
-/*Nancy Tran's Avatar (created by Nancy Tran)*/
-#avatar {
-  display: flex;
-  justify-content: center;
-}
-
-#avatar img {
-  width: 15%;
-  height: 15%;
-  display: inline-block;
 }
 
 /*Focused Developer (created by Undraw)*/
@@ -480,6 +474,12 @@ nav ul li.items:hover:after{
   margin-top: 15%;
 }
 
+#fakeResume img {
+  width: 40%;
+  height: 40%;
+  display: inline-block;
+}
+
 /*download resume button that will direct to pdf to download*/
   .downloadResumeButton {
   width: 40%;
@@ -659,6 +659,18 @@ filter: alpha(opacity=70);
 nav ul li.items:hover:after{
   opacity: 0;
   display: flex;
+}
+
+/*Nancy Tran's Avatar (created by Nancy Tran)*/
+/*#avatar {
+  display: flex;
+  justify-content: center;
+}
+
+#avatar img {
+  width: 15%;
+  height: 15%;
+  display: inline-block;
 }
 
 */
