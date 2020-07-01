@@ -199,9 +199,8 @@ nav ul li.btn.hide i:before{
 
 #hairbuns img {
   height: auto;
-  max-width: 20%;
-  display: justify;
-  justify-items: center;
+  max-width: 26%;
+  margin-left: 37%;
   margin-top: 1%;
   margin-bottom: 1%;
 }
