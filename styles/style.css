@@ -203,7 +203,7 @@ nav ul li.btn.hide i:before{
 }
 
 /*Going to another page button styling*/
-.goToAnotherPage_btn{
+.goToAnotherPageButton {
   padding: 15px 30px;
   font-family: 'Montserrat', sans-serif;
   font-weight: bold;
@@ -218,7 +218,7 @@ nav ul li.btn.hide i:before{
 }
 
 /*Going to another page button when hover*/
-.downloadResumeButton:hover {
+.goToAnotherPageButton:hover {
   color: #514c4d;
   transform: scale(1.1);
   transition: 0.3s;
@@ -476,28 +476,16 @@ nav ul li.items:hover:after{
 #hairbuns img {
   height: auto;
   max-width: 40%;
-  margin-left: 20%;
+  margin-left: 30%;
   margin-top: 1%;
   margin-bottom: 1%;
 }
 
 #fakeResume img {
-  width: 40%;
+  width: 80%;
   height: 40%;
+  margin-left: 10%;
   display: inline-block;
-}
-
-/*download resume button that will direct to pdf to download*/
-  .downloadResumeButton {
-  width: 40%;
-  margin-left: 30%;
-}
-
-/*download resume button when hover*/
-.downloadResumeButton:hover {
-  color: #514c4d;
-  transform: scale(1.1);
-  transition: 0.3s;
 }
 
 }
