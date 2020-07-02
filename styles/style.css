@@ -452,6 +452,22 @@ nav ul li.items:hover:after{
   margin-top: 15%;
 }
 
+
+/*Focused Developer (Created by Undraw and re-designed by Nancy Tran)*/
+#devFocus {
+  display: flex;
+  justify-content: center;
+}
+
+#devFocus img {
+  width: 50%;
+  height: 50%;
+  display: inline-block;
+  margin-top: 5%;
+  margin-bottom: 5%;
+}
+
+
 #hairbuns img {
   height: auto;
   max-width: 40%;
