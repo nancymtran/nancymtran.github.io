@@ -477,8 +477,8 @@ nav ul li.items:hover:after{
 
 #hairbuns img {
   height: auto;
-  max-width: 40%;
-  margin-left: 30%;
+  max-width: 60%;
+  margin-left: 20%;
   margin-top: 1%;
   margin-bottom: 1%;
 }
@@ -486,7 +486,6 @@ nav ul li.items:hover:after{
 #fakeResume img {
   width: 60%;
   height: 60%;
-  margin-left: 20%;
   display: inline-block;
 }
 
