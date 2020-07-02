@@ -69,18 +69,27 @@ body::-webkit-scrollbar-thumb {
 }
 
 /*styling outside of header*/
-p, h1 {
+p {
   color: #514c4d;
   font-family: 'Montserrat', sans-serif;
   display: block;
   text-align: center;
-}
-
-p {
   margin-left: 5%;
   margin-right: 5%;
   z-index: 1;
 }
+
+h1 {
+  display: block;
+  text-align: center;
+}
+
+h2 {
+  display: block;
+  text-align: center;
+  margin: 10%;
+}
+
 
 /* Navigation bar */
 .navbar{
