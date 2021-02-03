@@ -79,6 +79,15 @@ p {
   z-index: 1;
 }
 
+p1 {
+  color: #514c4d;
+  font-family: 'Montserrat', sans-serif;
+  display: block;
+  text-align: left;
+  font-weight: bold;
+  z-index: 1;
+}
+
 h1 {
   display: block;
   text-align: center;
