@@ -26,7 +26,7 @@
 <line class="st0" x1="-450" y1="921.5" x2="-450" y2="739.2"/>
 <line class="st0" x1="-450" y1="582.4" x2="-450" y2="415.1"/>
 <g>
-	<rect y="0" class="st1" width="1920" height="1080"/>
+	<rect class="st1" width="1920" height="1080"/>
 </g>
 <g>
 	<g>
@@ -84,6 +84,6 @@
 	<ellipse class="st12" cx="865.7" cy="723" rx="20.3" ry="20"/>
 	<path class="st13" d="M979.4,589.1c-6.6,0-11.9,5.2-11.9,11.7s5.3,11.7,11.9,11.7s11.9-5.2,11.9-11.7S986,589.1,979.4,589.1z"/>
 </g>
-<text transform="matrix(0.9337 0 0 1 144.2385 390.4872)" class="st14 st15">Cup O’ Byte</text>
+<text transform="matrix(0.9337 0 0 1 86.168 404.4242)" class="st14 st15">Cup O’ Bytes</text>
 <text transform="matrix(1 0 0 1 553.3676 951.5415)" class="st16 st17">What ingredients do you have?</text>
 </svg>
