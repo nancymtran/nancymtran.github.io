@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 25.2.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1621 1031" style="enable-background:new 0 0 1621 1031;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;}
+	.st1{fill:none;stroke:#000000;stroke-miterlimit:10;}
+	.st2{stroke:#000000;stroke-miterlimit:10;}
+	.st3{fill:#D5E8D4;stroke:#82B366;stroke-miterlimit:10;}
+	.st4{font-family:'ArialMT';}
+	.st5{font-size:12.9435px;}
+	.st6{fill:#FFFFFF;stroke:#000000;}
+	.st7{fill:none;stroke:#000000;stroke-miterlimit:10;stroke-dasharray:3,3;}
+	.st8{fill:#FFFFFF;stroke:#000000;stroke-miterlimit:10;}
+	.st9{enable-background:new    ;}
+	.st10{font-size:11.3157px;}
+	.st11{font-size:9.8435px;}
+	.st12{font-size:9.1894px;}
+	.st13{font-size:12.2632px;}
+</style>
+<path class="st0" d="z"/>
+<g>
+	<path pointer-events="stroke" class="st1" d="M149.5,207h92.4"/>
+	<path pointer-events="all" class="st2" d="M247.5,207l-7.6,3.8l1.9-3.8l-1.9-3.8L247.5,207z"/>
+	<path pointer-events="all" class="st3" d="M33,239.4l25.9-64.7h103.5l-25.9,64.7H33z"/>
+	<g transform="translate(-0.5 -0.5)">
+		<text transform="matrix(1 0 0 1 55.6015 211.2974)" class="st4 st5">Splash Screen</text>
+	</g>
+	<path pointer-events="stroke" class="st1" d="M378.2,207h79.4"/>
+	<path pointer-events="all" class="st2" d="M463.3,207l-7.6,3.8l1.9-3.8l-1.9-3.8L463.3,207z"/>
+	<rect x="248.7" y="174.7" pointer-events="all" class="st6" width="129.4" height="64.7"/>
+	<g transform="translate(-0.5 -0.5)">
+		<text transform="matrix(1 0 0 1 249.1464 211.2974)" class="st4 st5">Onboarding: Welcome</text>
+	</g>
+	<path pointer-events="stroke" class="st1" d="M593.9,207h79.4"/>
+	<path pointer-events="all" class="st2" d="M679,207l-7.6,3.8l1.9-3.8l-1.9-3.8L679,207z"/>
+	<path pointer-events="stroke" class="st7" d="M529.2,239.4v79.4"/>
+	<path pointer-events="all" class="st2" d="M529.2,324.5l-3.8-7.6l3.8,1.9l3.8-1.9L529.2,324.5z"/>
+	<path pointer-events="all" class="st8" d="M529.2,174.7l64.7,32.4l-64.7,32.4L464.5,207L529.2,174.7z"/>
+	<g transform="translate(-0.5 -0.5)">
+		<text transform="matrix(1 0 0 1 499.29 195.1816)" class="st9"><tspan x="0" y="0" class="st4 st10">Go through </tspan><tspan x="0" y="13.6" class="st4 st10">onboarding</tspan><tspan x="0" y="27.2" class="st4 st10">or skip?</tspan></text>
+	</g>
+	<path pointer-events="stroke" class="st7" d="M529.2,390.4v47.1"/>
+	<path pointer-events="all" class="st2" d="M529.2,443.1l-3.8-7.6l3.8,1.9l3.8-1.9L529.2,443.1z"/>
+	<rect x="464.5" y="325.7" pointer-events="all" class="st6" width="129.4" height="64.7"/>
+	<g transform="translate(-0.5 -0.5)">
+		<text transform="matrix(1 0 0 1 488.4863 362.3052)" class="st4 st5">Login/Sign Up</text>
+	</g>
+	<path pointer-events="stroke" class="st1" d="M809.6,207H889"/>
+	<path pointer-events="all" class="st2" d="M894.7,207l-7.6,3.8l1.9-3.8l-1.9-3.8L894.7,207z"/>
+	<path pointer-events="stroke" class="st7" d="M744.9,239.4V358H600.8"/>
+	<path pointer-events="all" class="st2" d="M595.1,358l7.6-3.8l-1.9,3.8l1.9,3.8L595.1,358z"/>
+	<path pointer-events="all" class="st8" d="M744.9,174.7l64.7,32.4l-64.7,32.4L680.2,207L744.9,174.7z"/>
+	<g transform="translate(-0.5 -0.5)">
+		<text transform="matrix(1 0 0 1 705.6494 211.2974)" class="st4 st5">Onboarding 1</text>
+	</g>
+	<path pointer-events="stroke" class="st1" d="M1025.4,207h79.4"/>
+	<path pointer-events="all" class="st2" d="M1110.4,207l-7.6,3.8l1.9-3.8l-1.9-3.8L1110.4,207z"/>
+	<path pointer-events="stroke" class="st7" d="M960.6,239.4v134.8H600.8"/>
+	<path pointer-events="all" class="st2" d="M595.1,374.2l7.6-3.8l-1.9,3.8l1.9,3.8L595.1,374.2z"/>
+	<path pointer-events="all" class="st8" d="M960.6,174.7l64.7,32.4l-64.7,32.4L895.9,207L960.6,174.7z"/>
+	<g transform="translate(-0.5 -0.5)">
+		<text transform="matrix(1 0 0 1 921.3745 211.2974)" class="st4 st5">Onboarding 2</text>
+	</g>
+	<path pointer-events="stroke" class="st1" d="M1176.4,239.4v161.8H529.2v-3.9"/>
+	<path pointer-events="all" class="st2" d="M529.2,391.6l3.8,7.6l-3.8-1.9l-3.8,1.9L529.2,391.6z"/>
+	<path pointer-events="all" class="st8" d="M1176.4,174.7l64.7,32.4l-64.7,32.4l-64.7-32.4L1176.4,174.7z"/>
+	<g transform="translate(-0.5 -0.5)">
+		<text transform="matrix(1 0 0 1 1137.0991 211.2974)" class="st4 st5">Onboarding 3</text>
+	</g>
+	<rect x="540" y="261" pointer-events="all" class="st0" width="43.1" height="21.6"/>
+	<g transform="translate(-0.5 -0.5)">
+		<text transform="matrix(1 0 0 1 548.9125 276.0147)" class="st4 st5">Skip</text>
+	</g>
+	<rect x="680.2" y="336.5" pointer-events="all" class="st0" width="43.1" height="21.6"/>
+	<g transform="translate(-0.5 -0.5)">
+		<text transform="matrix(1 0 0 1 689.1337 351.5191)" class="st4 st5">Skip</text>
+	</g>
+	<rect x="917.5" y="336.5" pointer-events="all" class="st0" width="43.1" height="21.6"/>
+	<g transform="translate(-0.5 -0.5)">
+		<text transform="matrix(1 0 0 1 926.4311 351.5191)" class="st4 st5">Skip</text>
+	</g>
+	<path pointer-events="stroke" class="st1" d="M529.2,509v79.4"/>
+	<path pointer-events="all" class="st2" d="M529.2,594.1l-3.8-7.6l3.8,1.9l3.8-1.9L529.2,594.1z"/>
+	<path pointer-events="stroke" class="st1" d="M593.9,476.7h79.4"/>
+	<path pointer-events="all" class="st2" d="M679,476.7l-7.6,3.8l1.9-3.8l-1.9-3.8L679,476.7z"/>
+	<path pointer-events="all" class="st8" d="M529.2,444.3l64.7,32.4L529.2,509l-64.7-32.4L529.2,444.3z"/>
+	<g transform="translate(-0.5 -0.5)">
+		<text transform="matrix(1 0 0 1 477.3349 480.9537)" class="st4 st5">Login or Sign Up?</text>
+	</g>
+	<path pointer-events="stroke" class="st7" d="M809.6,476.7H889"/>
+	<path pointer-events="all" class="st2" d="M894.7,476.7l-7.6,3.8l1.9-3.8l-1.9-3.8L894.7,476.7z"/>
+	<path pointer-events="stroke" class="st7" d="M744.9,509v79.4"/>
+	<path pointer-events="all" class="st2" d="M744.9,594.1l-3.8-7.6l3.8,1.9l3.8-1.9L744.9,594.1z"/>
+	<path pointer-events="all" class="st8" d="M744.9,444.3l64.7,32.4L744.9,509l-64.7-32.4L744.9,444.3z"/>
+	<g transform="translate(-0.5 -0.5)">
+		<text transform="matrix(1 0 0 1 713.7939 474.106)" class="st9"><tspan x="0" y="0" class="st4 st5">Social media</tspan><tspan x="0" y="15.5" class="st4 st5">or email?</tspan></text>
+	</g>
+	<path pointer-events="stroke" class="st1" d="M744.9,660V714H889"/>
+	<path pointer-events="all" class="st2" d="M894.7,714l-7.6,3.8l1.9-3.8l-1.9-3.8L894.7,714z"/>
+	<rect x="680.2" y="595.3" pointer-events="all" class="st6" width="129.4" height="64.7"/>
+	<g transform="translate(-0.5 -0.5)">
+		<text transform="matrix(1 0 0 1 702.2636 615.9771)" class="st9"><tspan x="0" y="0" class="st4 st5">Input email, </tspan><tspan x="0" y="15.5" class="st4 st5">password, and</tspan><tspan x="0" y="31.1" class="st4 st5">mentor/mentee</tspan></text>
+	</g>
+	<path pointer-events="stroke" class="st1" d="M1025.4,714h57.8"/>
+	<path pointer-events="all" class="st2" d="M1088.9,714l-7.6,3.8l1.9-3.8l-1.9-3.8L1088.9,714z"/>
+	<rect x="895.9" y="681.6" pointer-events="all" class="st6" width="129.4" height="64.7"/>
+	<g transform="translate(-0.5 -0.5)">
+		<text transform="matrix(1 0 0 1 927.1342 718.2505)" class="st4 st5">Home page</text>
+	</g>
+	<path pointer-events="stroke" class="st1" d="M1219.5,714h79.4"/>
+	<path pointer-events="all" class="st2" d="M1304.6,714l-7.6,3.8l1.9-3.8l-1.9-3.8L1304.6,714z"/>
+	<path pointer-events="stroke" class="st1" d="M1154.8,746.3v79.4"/>
+	<path pointer-events="all" class="st2" d="M1154.8,831.4l-3.8-7.6l3.8,1.9l3.8-1.9L1154.8,831.4z"/>
+	<path pointer-events="all" class="st8" d="M1154.8,681.6l64.7,32.4l-64.7,32.4l-64.7-32.4L1154.8,681.6z"/>
+	<g transform="translate(-0.5 -0.5)">
+		<text transform="matrix(1 0 0 1 1124.8359 705.2086)" class="st9"><tspan x="0" y="0" class="st4 st11">Play a game</tspan><tspan x="0" y="11.8" class="st4 st11"> or join a design</tspan><tspan x="0" y="23.6" class="st4 st11">session</tspan></text>
+	</g>
+	<path pointer-events="all" class="st8" d="M1154.8,832.6l64.7,32.4l-64.7,32.4l-64.7-32.4L1154.8,832.6z"/>
+	<g transform="translate(-0.5 -0.5)">
+		<text transform="matrix(1 0 0 1 1122.7739 857.9082)" class="st9"><tspan x="0" y="0" class="st4 st12">Replay live event</tspan><tspan x="0" y="11" class="st4 st12">or join upcoming </tspan><tspan x="0" y="22.1" class="st4 st12">event</tspan></text>
+	</g>
+	<rect x="1305.8" y="681.6" pointer-events="all" class="st6" width="129.4" height="64.7"/>
+	<g transform="translate(-0.5 -0.5)">
+		<text transform="matrix(1 0 0 1 1324.6011 714.4761)" class="st9"><tspan x="0" y="0" class="st4 st5">Icon game </tspan><tspan x="0" y="15.5" class="st4 st5">or color game</tspan></text>
+	</g>
+	<path pointer-events="stroke" class="st1" d="M960.6,509v165.7"/>
+	<path pointer-events="all" class="st2" d="M960.6,680.4l-3.8-7.6l3.8,1.9l3.8-1.9L960.6,680.4z"/>
+	<rect x="895.9" y="444.3" pointer-events="all" class="st6" width="129.4" height="64.7"/>
+	<g transform="translate(-0.5 -0.5)">
+		<text transform="matrix(1 0 0 1 907.2016 471.5308)" class="st9"><tspan x="0" y="0" class="st4 st5">Input password</tspan><tspan x="0" y="15.5" class="st4 st5">and mentor/mentee</tspan></text>
+	</g>
+	<rect x="464.5" y="595.3" pointer-events="all" class="st6" width="129.4" height="64.7"/>
+	<g transform="translate(-0.5 -0.5)">
+		<text transform="matrix(1 0 0 1 489.4316 622.6939)" class="st9"><tspan x="0" y="0" class="st4 st5">Input email </tspan><tspan x="0" y="15.5" class="st4 st5">and password</tspan></text>
+	</g>
+	<rect x="604.7" y="444.3" pointer-events="all" class="st0" width="53.9" height="21.6"/>
+	<g transform="translate(-0.5 -0.5)">
+		<text transform="matrix(1 0 0 1 608.5893 459.3814)" class="st4 st5">Sign Up</text>
+	</g>
+	<rect x="529.2" y="541.4" pointer-events="all" class="st0" width="53.9" height="21.6"/>
+	<g transform="translate(-0.5 -0.5)">
+		<text transform="matrix(1 0 0 1 540.2744 556.4576)" class="st4 st5">Login</text>
+	</g>
+	<rect x="831.2" y="444.3" pointer-events="all" class="st0" width="43.1" height="21.6"/>
+	<g transform="translate(-0.5 -0.5)">
+		<text transform="matrix(1.0502 0 0 1 811 459.3813)" class="st4 st13">Social Media</text>
+	</g>
+	<rect x="755.7" y="541.4" pointer-events="all" class="st0" width="43.1" height="21.6"/>
+	<g transform="translate(-0.5 -0.5)">
+		<text transform="matrix(1 0 0 1 761.0449 556.4576)" class="st4 st5">Email</text>
+	</g>
+	<rect x="1241.1" y="692.4" pointer-events="all" class="st0" width="43.1" height="21.6"/>
+	<g transform="translate(-0.5 -0.5)">
+		<text transform="matrix(1 0 0 1 1244.9849 707.4654)" class="st4 st5">Game</text>
+	</g>
+	<rect x="1165.6" y="778.7" pointer-events="all" class="st0" width="43.1" height="21.6"/>
+	<g transform="translate(-0.5 -0.5)">
+		<text transform="matrix(1 0 0 1 1161.5659 793.7554)" class="st4 st5">Design Session</text>
+	</g>
+	<g>
+		<path pointer-events="all" class="st8" d="M1523.3,454.4l64.7,32.4l-64.7,32.4l-64.7-32.4L1523.3,454.4z"/>
+		<g transform="translate(-0.5 -0.5)">
+			<text transform="matrix(1 0 0 1 1504.8813 490.9937)" class="st4 st5">Profile</text>
+		</g>
+	</g>
+</g>
+<path class="st0" d="z"/>
+</svg>
