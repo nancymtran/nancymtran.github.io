@@ -180,7 +180,7 @@ nav ul li.btn.hide i:before{
 }
 
 /*Going to another page button styling*/
-.goToAnotherPageButton {
+/*.goToAnotherPageButton {
   padding: 15px 30px;
   font-family: 'Montserrat', sans-serif;
   font-weight: bold;
@@ -195,7 +195,7 @@ nav ul li.btn.hide i:before{
 }
 
 /*Going to another page button when hover*/
-.goToAnotherPageButton:hover {
+/*.goToAnotherPageButton:hover {
   color: #514c4d;
   transform: scale(1.1);
   transition: 0.3s;
