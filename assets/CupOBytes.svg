@@ -18,7 +18,7 @@
 	.st12{opacity:0.1;fill:#D5D6DB;enable-background:new    ;}
 	.st13{opacity:0.25;fill:#EBF0F3;enable-background:new    ;}
 	.st14{font-family:'GoudyOldStyleT-Regular';}
-	.st15{font-size:300px;}
+	.st15{font-size:250px;}
 	.st16{font-family:'GoudyOldStyleT-Italic';}
 	.st17{font-size:75px;}
 </style>
@@ -84,7 +84,8 @@
 	<ellipse class="st12" cx="865.7" cy="723" rx="20.3" ry="20"/>
 	<path class="st13" d="M979.4,589.1c-6.6,0-11.9,5.2-11.9,11.7s5.3,11.7,11.9,11.7s11.9-5.2,11.9-11.7S986,589.1,979.4,589.1z"/>
 </g>
-<text transform="matrix(0.9337 0 0 1 232.4905 488.6452)" class="st14 st15">Cup O’ Bytes</text>
+<text transform="matrix(0.9337 0 0 1 337.2832 398.0648)" class="st14 st15">Cup O’ Bytes</text>
 <text transform="matrix(1 0 0 1 553.3676 951.5415)" class="st16 st17">What ingredients do you have?</text>
 <rect x="2042.1" y="488.6" class="st0" width="4.6" height="27.9"/>
+<rect x="2227.9" y="412" class="st0" width="62.7" height="0"/>
 </svg>
