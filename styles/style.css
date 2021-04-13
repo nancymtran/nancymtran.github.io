@@ -64,8 +64,8 @@ body::-webkit-scrollbar-thumb {
   margin-bottom: 5%;
   margin-left: 5%;
   margin-right: 5%;
-  text-align: justify;
-  text-justify: inner-word;
+  text-align: left;
+  /*text-justify: inner-word;*/
 }
 
 /*styling outside of header*/
@@ -398,8 +398,8 @@ img {
   line-height: 1.5;
   margin-bottom: 1.25rem;    
   font-weight: 400;
-  text-align: justify;
-  text-justify: inner-word;
+  text-align: left;
+  /*text-justify: inner-word;*/
   text-decoration: none;
 }
 
